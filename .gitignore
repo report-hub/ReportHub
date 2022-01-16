@@ -1,3 +1,6 @@
 
 ReportHub.Service/obj/*
 ReportHub.Service/bin/*
+
+ReportHub.Repository/obj/*
+ReportHub.Repository/bin/*
