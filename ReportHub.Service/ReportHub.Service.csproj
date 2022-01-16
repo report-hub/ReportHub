@@ -6,4 +6,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\ReportHub.Repository\ReportHub.Repository.csproj" />
+    </ItemGroup>
+
 </Project>
