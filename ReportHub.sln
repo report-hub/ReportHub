@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportHub.Service", "Report
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportHub.Repository", "ReportHub.Repository\ReportHub.Repository.csproj", "{9CBE3895-BF4B-49D5-8183-3E86659CA68B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportHub.Models", "ReportHub.Models\ReportHub.Models.csproj", "{BB071C7B-0DBD-4984-91C5-D6A11EE753CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{9CBE3895-BF4B-49D5-8183-3E86659CA68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CBE3895-BF4B-49D5-8183-3E86659CA68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CBE3895-BF4B-49D5-8183-3E86659CA68B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB071C7B-0DBD-4984-91C5-D6A11EE753CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB071C7B-0DBD-4984-91C5-D6A11EE753CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB071C7B-0DBD-4984-91C5-D6A11EE753CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB071C7B-0DBD-4984-91C5-D6A11EE753CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
